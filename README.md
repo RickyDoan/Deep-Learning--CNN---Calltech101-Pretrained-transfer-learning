@@ -1,4 +1,4 @@
-🖼️ Caltech101 Image Classification with CNNs and Transfer Learning
+# 🖼️ Caltech101 Image Classification with CNNs and Transfer Learning
 📋 Overview
 * This project involves image classification on the Caltech101 dataset, exploring both custom CNNs and pre-trained models to classify 102 object categories effectively.
 
