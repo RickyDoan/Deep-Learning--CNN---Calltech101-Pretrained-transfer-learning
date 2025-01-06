@@ -16,7 +16,7 @@
 * ResNet18: 63% accuracy.
 * EfficientNet-B0: 85% accuracy.
 
-#Evaluation
+# Evaluation
 * Compared accuracy and loss across models.
 * Visualized predictions on random images with both true and predicted labels.
 # 🔑 Key Results
